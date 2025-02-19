@@ -1,1 +1,1 @@
-# pumpfun-volume-bot
+# Solana Pumpfun Volume Bot
