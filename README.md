@@ -1,1 +1,1 @@
-# Solana Pumpfun Volume Bot
+# Solana Pumpfun Volume Bot 💎💎💎
